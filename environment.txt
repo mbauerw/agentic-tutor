@@ -1,0 +1,3 @@
+supabase
+pip install --pre -U langchain langchain-openai
+
